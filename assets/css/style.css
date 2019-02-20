@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis|Smythe');
+
+.title, .title > a, #main_title{
+    font-family: 'Smythe', cursive;
+}
+
+p{
+    font-family: 'Dosis', sans-serif;
+}
+
+
+#about, #about_title,
+#contact_title, #contact,
+#djs, #djs_title
+{
+    background-color: #C72420;
+    color:white;
+}
+
+
+#title, #title_title{
+    background-color: #191418;
+}
+
+#events, #events_title, #social, #social_title{
+    background-color: #191418;
+    color: white;
+}
+
+
+#header{
+    background-image: none;
+    background-image: url("https://media.timeout.com/images/103585524/image.jpg");
+}
+
+.nav_link{
+    color: white;
+}
+
+#about_button,
+#dj_one,
+#dj_two,
+#dj_three,
+#contact_button{
+    background-color: #191418;
+    font-family: 'Smythe', cursive;
+}
+
+.dj_name{
+    color:white;
+    margin-bottom: 1em;
+    font-family: 'Smythe', cursive;
+}
